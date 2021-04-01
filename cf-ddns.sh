@@ -5,7 +5,7 @@ set -o nounset
 
 # Automatically update cloudflare's dns record, pointing to your public network ip, Dynamic DNS
 
-# curl https://github.com/linux985/cloudflare-api-v4-ddns/blob/138c60da6383a504f5c2d7acf8b3d1a7e5e6c0b6/cf-v4-ddns.sh > /usr/local/bin/cf-ddns.sh && chmod +x /usr/local/bin/cf-ddns.sh
+# curl https://github.com/jjzzorg/cloudflare-api-ddns/blob/172af8742d5f667b305ae2e7afe6c9c94bc24863/cf-ddns.sh > /usr/local/bin/cf-ddns.sh && chmod +x /usr/local/bin/cf-ddns.sh
 
 # run `crontab -e` and add next line:
 # */1 * * * * /usr/local/bin/cf-ddns.sh >/dev/null 2>&1
