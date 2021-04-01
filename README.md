@@ -14,3 +14,5 @@
 apt-get install net-tools 
 ```
 
+B站视频介绍 https://www.bilibili.com/video/BV1A5411A7DR/  
+油管视频介绍 https://www.youtube.com/watch?v=3XmMTWJI8XE   
